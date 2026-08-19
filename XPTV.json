@@ -1,0 +1,148 @@
+{
+  "sites": [
+    {
+      "name": "哔滴影视",
+      "type": 3,
+      "api": "csp_bde4",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
+    },
+    {
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
+    },
+    {
+      "name": "丽播影视",
+      "type": 3,
+      "api": "csp_libvio",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/libvio.js"
+    },
+    {
+      "name": "日美动漫",
+      "type": 3,
+      "api": "csp_ai",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
+    },
+    {
+      "name": "独播乐库",
+      "type": 3,
+      "api": "csp_duboku",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
+    },
+    {
+      "name": "AGE动漫",
+      "type": 3,
+      "api": "csp_age",
+      "ext": "https://gist.githubusercontent.com/occupy-pluto/e3a7bb98d5027d0f6dfa85fc2ac11a78/raw/6deb0475d295ac867ccb9c7cf3b1fb212a77abd7/agedm.js"
+    },
+    {
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_jpyy",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+    },
+    {
+      "name": "燒火電影",
+      "type": 3,
+      "api": "csp_saohuo",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
+    },
+    {
+      "name": "星芽短劇",
+      "type": 3,
+      "api": "csp_xingya",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+    },
+    {
+      "name": "荐片资源",
+      "type": 3,
+      "api": "csp_jianpian",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/jianpian.js"
+    },
+    {
+      "name": "人人影视",
+      "type": 3,
+      "api": "csp_rrmj",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/rrmj.js"
+    },
+    {
+      "name": "动漫连载",
+      "type": 3,
+      "api": "csp_anime1",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/anime1.js"
+    },
+    {
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_wwgz",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/wwgz.js"
+    },
+    {
+      "name": "七番動漫",
+      "type": 3,
+      "api": "csp_7sefun",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/7sefun.js"
+    },
+    {
+      "name": "路漫番剧",
+      "type": 3,
+      "api": "csp_lmm85",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/lmm85.js"
+    },
+    {
+      "name": "皮皮影视",
+      "type": 3,
+      "api": "csp_ppnix",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ppnix.js"
+    },
+    {
+      "name": "河馬短劇",
+      "type": 3,
+      "api": "csp_kuaikaw",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/kuaikaw.js"
+    },
+    {
+      "name": "玩偶哥哥",
+      "type": 3,
+      "api": "csp_wogg",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/wogg.js"
+    },
+    {
+      "name": "多多影视",
+      "type": 3,
+      "api": "csp_yydsys",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/yydsys.js"
+    },
+    {
+      "name": "木偶影视",
+      "type": 3,
+      "api": "csp_muou",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/muou.js"
+    },
+    {
+      "name": "小米影视",
+      "type": 3,
+      "api": "csp_mihdr",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/mihdr.js"
+    },
+    {
+      "name": "欧哥影视",
+      "type": 3,
+      "api": "csp_ouge",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ouge.js"
+    },
+    {
+      "name": "星汉影视",
+      "type": 3,
+      "api": "csp_star2",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/star2.js"
+    },
+    {
+      "name": "壹品影視",
+      "type": 3,
+      "api": "csp_yiys",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/yiys.js"
+    }
+  ]
+}
