@@ -109,12 +109,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
     },
     {
-      "name": "NO視頻",
-      "type": 3,
-      "api": "csp_novipnoad",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js"
-    },
-    {
       "name": "瓜子影视",
       "type": 3,
       "api": "csp_guazi",
